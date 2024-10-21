@@ -9,4 +9,4 @@
 ## ipyn filenév
 **\*insert ipyn file neve\***
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Bitang-Melyen-Tanulok/Csip_Csip/edit/main/BirdClef.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/Bitang-Melyen-Tanulok/Csip_Csip/edit/main/BirdClef.ipynb)
