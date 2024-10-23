@@ -5,7 +5,7 @@
 - Biró Márton, Z7A244
 - Vizi Kristóf Levente, GN2VV4
 ## Projekt ismertetése
-**\*Kaggle link a feladathoz:\*** https://www.kaggle.com/competitions/birdclef-2024
+**Kaggle link a feladathoz:** https://www.kaggle.com/competitions/birdclef-2024
 ## ipyn filenév
 **\*insert ipyn file neve\***
 
