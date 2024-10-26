@@ -12,7 +12,8 @@ A projekt a madarak hang alapján való felismerésének autómatizálásával f
 ## Fileok funkciói
 **BirdClef.ipyn**
 *Ebben a Google Colab munkafüzetben zajlik az adatok feldolgozása és néhány hangfájl vizualizálása.*
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/BirdCLEF.ipynb)
+
 **Upload_training_data_to_drive**
 *Ebben a munkafüzetben egy olyan kódsorozat szerepel mely a Keggle oldaláról letölti a megfelelő zipfájlt, majd ezt egy Google Drive mappába feltöltve kicsomagolja hogy a későbbi használatra mindig elérhetőek legyenek a file-ok.*
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/BirdCLEF.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Upload_training_data_to_drive.ipynb)
