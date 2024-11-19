@@ -9,7 +9,12 @@ A projekt célja neurális háló tanítása madarak fajtájának felismerésér
 
 **Kaggle link a feladathoz:** https://www.kaggle.com/competitions/birdclef-2024
 ## ipyn filenév
-**BirdCLEF.ipyn**
+Első milestone: **BirdCLEF.ipyn**
+*Ebben a Google Colab munkafüzetben zajlik az adatok feldolgozása és tanítás adatainak vizualizálása.*
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/BirdCLEF.ipynb)
+
+
 ## Fileok funkciói
 
 **Upload_training_data_to_drive**
@@ -18,10 +23,5 @@ A projekt célja neurális háló tanítása madarak fajtájának felismerésér
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Upload_training_data_to_drive.ipynb)
 
-**BirdCLEF.ipyn**
-
-*Ebben a Google Colab munkafüzetben zajlik az adatok feldolgozása és tanítás adatainak vizualizálása.*
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/BirdCLEF.ipynb)
 
 
