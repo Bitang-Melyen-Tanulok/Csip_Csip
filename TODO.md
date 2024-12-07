@@ -16,6 +16,10 @@
 
 **efficientnet_b0**
 
+**https://zenn.dev/yuto_mo/articles/ad43c630729073**
+
+**https://www.kaggle.com/competitions/birdclef-2024/discussion/512340**
+
 
 
 ## Maybe useful:
