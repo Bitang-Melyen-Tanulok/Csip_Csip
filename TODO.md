@@ -6,5 +6,7 @@
 
 **check for duplicate audio files and discard them**
 
+**peak-normalize each 5s segment to 0.25 (by google bird bovalization classifier)**
+
 ## Maybe useful:
  - https://joblib.readthedocs.io/en/stable/
