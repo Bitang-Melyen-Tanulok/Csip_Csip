@@ -20,6 +20,8 @@
 
 **https://www.kaggle.com/competitions/birdclef-2024/discussion/512340**
 
+**https://www.kaggle.com/competitions/birdclef-2024/discussion/511905**
+
 
 
 ## Maybe useful:
