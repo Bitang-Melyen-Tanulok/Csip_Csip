@@ -8,5 +8,15 @@
 
 **peak-normalize each 5s segment to 0.25 (by google bird bovalization classifier)**
 
+**https://www.kaggle.com/models/google/bird-vocalization-classifier/TensorFlow2/bird-vocalization-classifier**
+
+**Postprocess: To predict chunk n, the models take 10 seconds: 5 seconds from the chunk n and 2.5 seconds from the previous and next chunks. (top solution)**
+
+**Cross entropy loss**
+
+**efficientnet_b0**
+
+
+
 ## Maybe useful:
  - https://joblib.readthedocs.io/en/stable/
