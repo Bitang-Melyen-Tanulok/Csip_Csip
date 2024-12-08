@@ -20,7 +20,7 @@ Random sampling for 5 seconds or only sampling the first 5 seconds might not be 
 
 **train the efficientnet_b0 model on the train_audio only. Folds 0, 1, 3 are chosen due to high public score.**
 
-**Cross entropy loss**
+**Cross entropy loss, Stratified 5-fold cross-validation**
 
 **efficientnet_b0**
 
