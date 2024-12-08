@@ -4,7 +4,7 @@
 
 **first do nocall identification (freefield1010) on the data**
 
-**SECONDARY LABELS WITH 0.5 WEIGHT**
+**SECONDARY LABELS weight loss 0.5? or multiply by 0 becaus they might not even be in the first 5 seconds**
 
 **check for duplicate audio files and discard them**
 
