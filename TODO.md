@@ -30,6 +30,8 @@ Random sampling for 5 seconds or only sampling the first 5 seconds might not be 
 
 **https://www.kaggle.com/competitions/birdclef-2024/discussion/511905**
 
+**Adam**
+
 
 
 ## Maybe useful:
