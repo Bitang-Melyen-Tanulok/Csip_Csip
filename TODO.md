@@ -18,7 +18,7 @@ If a recording in the train set is 15 seconds and the label is pigeon it means s
 
 Random sampling for 5 seconds or only sampling the first 5 seconds might not be the best approach, as 5 seconds is too short and might crop to noise or silence. I am using the Google Bird Model to predict the scores of all segments and only randomly sample those with scores greater than a certain threshold.
 
-**Postprocess: To predict chunk n, the models take 10 seconds: 5 seconds from the chunk n and 2.5 seconds from the previous and next chunks. (top solution)**
+**train the efficientnet_b0 model on the train_audio only. Folds 0, 1, 3 are chosen due to high public score.**
 
 **Cross entropy loss**
 
