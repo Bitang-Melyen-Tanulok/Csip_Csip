@@ -32,6 +32,8 @@ Random sampling for 5 seconds or only sampling the first 5 seconds might not be 
 
 **Adam**
 
+**model.half().float()**
+
 
 
 ## Maybe useful:
