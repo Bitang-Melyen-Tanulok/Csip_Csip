@@ -21,8 +21,10 @@ Random sampling for 5 seconds or only sampling the first 5 seconds might not be 
 **train the efficientnet_b0 model on the train_audio only. Folds 0, 1, 3 are chosen due to high public score.**
 
 **Cross entropy loss, Stratified 5-fold cross-validation**
+For each validation sample - slice the first 60 seconds to pieces -> predict each piece -> max(sample_predictions, dim=pieces).
+Take max prob from each 5 second clip over time across ALL sample
 
-**efficientnet_b0**
+**efficientnet_b0 pretrained on imagenet**
 
 **https://zenn.dev/yuto_mo/articles/ad43c630729073**
 
@@ -33,8 +35,6 @@ Random sampling for 5 seconds or only sampling the first 5 seconds might not be 
 **Adam**
 
 **model.half().float()**
-
-
 
 ## Maybe useful:
  - https://joblib.readthedocs.io/en/stable/
