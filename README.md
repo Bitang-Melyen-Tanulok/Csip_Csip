@@ -8,6 +8,10 @@
 A projekt célja neurális háló tanítása madarak fajtájának felismerésére a hanguk alapján. Az adathalmaz madarak hanfelvételeiből áll .ogg fileformátumban és 2 darab .csv file-ok melyek a hangfelvételekhez és a madárfajokhoz tartalmaznak információkat.
 
 **Kaggle link a feladathoz:** https://www.kaggle.com/competitions/birdclef-2024
+
+**Beszámoló pdf neve**
+Beszámoló_draft.pdf
+
 ## ipyn filenév
 Első milestone: **BirdCLEF.ipyn**
 
