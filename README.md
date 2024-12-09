@@ -11,6 +11,7 @@ A projekt célja neurális háló tanítása madarak fajtájának felismerésér
 
 ### Beszámoló pdf neve
 **Beszámoló_draft.pdf**
+Megajánlott jegyért
 
 ## ipyn filenév
 Első milestone: **BirdCLEF.ipyn**
