@@ -9,7 +9,7 @@ A projekt célja neurális háló tanítása madarak fajtájának felismerésér
 
 **Kaggle link a feladathoz:** https://www.kaggle.com/competitions/birdclef-2024
 
-###Beszámoló pdf neve
+### Beszámoló pdf neve
 **Beszámoló_draft.pdf**
 
 ## ipyn filenév
