@@ -43,6 +43,13 @@ Első milestone: **BirdCLEF.ipyn**
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Saving_spectrograms_to_disk.ipynb)
 
 
+**Audio_augmentation.ipynb**
+
+*Ebben a munkafüzetben vannak az adatdúsításért felelős kódrészek.*
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Audio_augmentation.ipynb)
+
+
 **Train.ipynb**
 
 *A spektrogramok betöltésére, és a neurális háló tanítására szolgáló munkafüzet.*
