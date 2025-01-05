@@ -10,7 +10,7 @@ A projekt célja neurális háló tanítása madarak fajtájának felismerésér
 **Kaggle link a feladathoz:** https://www.kaggle.com/competitions/birdclef-2024
 
 ### Beszámoló pdf neve
-**Beszámoló_draft.pdf**
+**Beszámoló.pdf**
 Megajánlott jegyért
 
 ## Első milestone-ra beadott ipyn file neve
@@ -47,6 +47,14 @@ Megajánlott jegyért
 
 
 
+**Filter_spectrograms_with_Google_classifier.ipynb**
+
+*Ez a munkafüzet átfuttatja a hangfájlokat a Google Bird Vocalization Classifier-en, és az eredménytől függően törli, vagy áthelyezi azok spektrogramját.*
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Filter_spectrograms_with_Google_classifier.ipynb)
+
+
+
 **Audio_augmentation.ipynb**
 
 *Ebben a munkafüzetben vannak az adatdúsításért felelős kódrészek.*
@@ -55,8 +63,8 @@ Megajánlott jegyért
 
 
 
-**Train.ipynb**
+**Cross_valid_Train_Uj_Uj.ipynb**
 
-*A spektrogramok betöltésére, és a neurális háló tanítására szolgáló munkafüzet.*
+*A spektrogramok betöltésére, duplikált spektrogramok kiszűrésére, és a neurális háló tanítására, kiértékelésére szolgáló munkafüzet.*
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Train.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Cross_valid_Train_Uj_Uj.ipynb)
