@@ -13,8 +13,8 @@ A projekt célja neurális háló tanítása madarak fajtájának felismerésér
 **Beszámoló_draft.pdf**
 Megajánlott jegyért
 
-## ipyn filenév
-Első milestone: **BirdCLEF.ipyn**
+## Első milestone-ra beadott ipyn file neve
+**BirdCLEF.ipyn**
 
 *Ebben a Google Colab munkafüzetben zajlik az adatok feldolgozása és tanítás adatainak vizualizálása.*
 
@@ -39,7 +39,7 @@ Első milestone: **BirdCLEF.ipyn**
 
 **Saving_spectrograms_to_disk.ipynb**
 
-*Az ebben szereplő kódrész az audiófájlokat 5 másodperces részekre bontja, azokat spektrogramokká alakítja, majdfeltölti egy Google Drive mappába.*
+*Az ebben szereplő kódrész az audiófájlok első 5 másodperces részét spektrogrammá alakítja, majdfeltölti egy Google Drive mappába.*
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Saving_spectrograms_to_disk.ipynb)
 
