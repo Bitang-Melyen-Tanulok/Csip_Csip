@@ -21,13 +21,14 @@ Megajánlott jegyért
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/BirdCLEF.ipynb)
 
 
-## Fileok funkciói
+## Végleges projekt file-jainak funkciói
 
 **Upload_training_data_to_drive.ipynb**
 
 *Ebben a munkafüzetben egy olyan kódsorozat szerepel mely a Kaggle oldaláról letölti a megfelelő zipfile-t, majd ezt egy Google Drive mappába feltöltve kicsomagolja hogy a későbbi használatra mindig elérhetőek legyenek a file-ok. Ezen kívül egy kisebb tanítóhalmazt is létrehoz.*
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Upload_training_data_to_drive.ipynb)
+
 
 
 **Data_visualization.ipynb**
@@ -37,11 +38,13 @@ Megajánlott jegyért
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Data_visualization.ipynb)
 
 
-**Saving_spectrograms_to_disk.ipynb**
 
-*Az ebben szereplő kódrész az audiófájlok első 5 másodperces részét spektrogrammá alakítja, majdfeltölti egy Google Drive mappába.*
+**Saving_spectrograms_to_disk_final_faster.ipynb**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Saving_spectrograms_to_disk.ipynb)
+*Az ebben szereplő kódrész az audiófájlok első 5 másodperces részét spektrogrammá alakítja, majdfeltölti a train_spectrograms Google Drive mappába.*
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Saving_spectrograms_to_disk_final_faster.ipynb)
+
 
 
 **Audio_augmentation.ipynb**
@@ -49,6 +52,7 @@ Megajánlott jegyért
 *Ebben a munkafüzetben vannak az adatdúsításért felelős kódrészek.*
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Audio_augmentation.ipynb)
+
 
 
 **Train.ipynb**
