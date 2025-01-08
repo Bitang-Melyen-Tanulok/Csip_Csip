@@ -55,8 +55,17 @@ Megajánlott jegyért
 
 
 
-**Cross_valid_Train_Uj_Uj.ipynb**
+**Cross_valid_Train_Uj_Uj_Uj.ipynb**
 
 *A spektrogramok betöltésére, duplikált spektrogramok kiszűrésére, adatok augmentálására és a neurális háló tanítására, kiértékelésére szolgáló munkafüzet.*
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Cross_valid_Train_Uj_Uj.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Cross_valid_Train_Uj_Uj_Uj.ipynb)
+
+
+
+**Train_final.ipynb**
+
+*A végleges modell tanítása*
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bitang-Melyen-Tanulok/Csip_Csip/blob/main/Train_final.ipynb)
+
